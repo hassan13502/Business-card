@@ -27,13 +27,13 @@ function App() {
         </div>
       </div>
       <footer>
-          <a href="_" target="_blank">
+          <a href="#" target="">
               <img src="../images/twitter-logo.png" />
           </a>
-          <a href="" target="_blank">
+          <a href="#" target="">
               <img src="../images/facebook-logo.png" />
           </a>
-          <a href="" target="_blank">
+          <a href="#" target="">
               <img src="../images/instagram-logo.png" />
           </a>
           <a href="https://github.com/hassan13502" target="_blank">
