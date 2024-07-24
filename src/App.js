@@ -10,11 +10,11 @@ function App() {
         <p>Frontend Developer</p>
         <p>www.developers/ hassan</p>
         <div className="contact-link">
-                <a href="mailto:hassan992255@gmail.com" target="_blank" className="email">
+                <a href="mailto:hassan992255@gmail.com" target="_blank" rel="noopener noreferrer" className="email">
                     <img src="../images/email-logo.png" />
                     <p>Email</p> 
                 </a>
-                <a href="https://www.linkedin.com/in/muhammad-hassan-796b52318/" target="_blank" className="linkedin" >
+                <a href="https://www.linkedin.com/in/muhammad-hassan-796b52318/" target="_blank" rel="noopener noreferrer" className="linkedin" >
                     <img src="../images/linkedin-logo.png" />
                     <p>Linkedin</p>            
                 </a>
@@ -27,16 +27,16 @@ function App() {
         </div>
       </div>
       <footer>
-          <a href="#" target="">
+          <a href="#" >
               <img src="../images/twitter-logo.png" />
           </a>
-          <a href="#" target="">
+          <a href="#">
               <img src="../images/facebook-logo.png" />
           </a>
-          <a href="#" target="">
+          <a href="#" >
               <img src="../images/instagram-logo.png" />
           </a>
-          <a href="https://github.com/hassan13502" target="_blank">
+          <a href="https://github.com/hassan13502" target="_blank" rel="noopener noreferrer">
               <img src="../images/github-logo.png" />
           </a>
       </footer>
